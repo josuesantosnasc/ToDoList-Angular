@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2. The foremost goal was to pratice some basic concepts of Angular making a simple application.
 
-![Alt Text] (http://g.recordit.co/1hu3bjW9FY.gif)
+![Alt Text](http://g.recordit.co/1hu3bjW9FY.gif)
 
 ## Development server
 
